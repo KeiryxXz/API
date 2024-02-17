@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+  
+.listOfUsers {
+    text-align: center;
+    background: rgb(27, 27, 52);
+    padding: 30px;
+    border-radius: 10px;
+}
+  
+.listOfUsers p {
+    border: 1px solid #ccc;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
